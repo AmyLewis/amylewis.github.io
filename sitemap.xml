@@ -4,7 +4,7 @@
   <url>
     <loc>http://amylewis.github.io/2020/07/31/2020-July-digest/</loc>
     
-    <lastmod>2020-08-05T14:49:50.938Z</lastmod>
+    <lastmod>2020-08-07T04:13:47.991Z</lastmod>
     
   </url>
   
@@ -93,13 +93,6 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2017/07/09/brief-history-of-humankind/</loc>
-    
-    <lastmod>2020-01-30T16:30:45.217Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/2018/11/24/Docker-cookbook/</loc>
     
     <lastmod>2020-01-30T16:30:45.217Z</lastmod>
@@ -107,14 +100,21 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/09/30/2019-September-digest/</loc>
+    <loc>http://amylewis.github.io/2017/07/09/brief-history-of-humankind/</loc>
+    
+    <lastmod>2020-01-30T16:30:45.217Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2019/10/31/2019-October-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.211Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/10/31/2019-October-digest/</loc>
+    <loc>http://amylewis.github.io/2019/09/30/2019-September-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.211Z</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/05/31/2019-May-digest/</loc>
+    <loc>http://amylewis.github.io/2019/03/31/2019-March-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.210Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/03/31/2019-March-digest/</loc>
+    <loc>http://amylewis.github.io/2019/05/31/2019-May-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.210Z</lastmod>
     
@@ -156,13 +156,6 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/02/28/2019-Feb-digest/</loc>
-    
-    <lastmod>2020-01-30T16:30:45.208Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/2019/01/14/2019-Jan-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.208Z</lastmod>
@@ -170,14 +163,21 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/12/31/2019-December-digest/</loc>
+    <loc>http://amylewis.github.io/2019/02/28/2019-Feb-digest/</loc>
+    
+    <lastmod>2020-01-30T16:30:45.208Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2019/08/31/2019-August-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.207Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/08/31/2019-August-digest/</loc>
+    <loc>http://amylewis.github.io/2019/12/31/2019-December-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.207Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/04/30/2019-April-digest/</loc>
+    <loc>http://amylewis.github.io/2018/11/10/2018-Oct-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.206Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/11/10/2018-Oct-digest/</loc>
+    <loc>http://amylewis.github.io/2019/04/30/2019-April-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.206Z</lastmod>
     
@@ -268,6 +268,13 @@
   </url>
   
   <url>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_4/</loc>
+    
+    <lastmod>2019-04-23T15:16:33.932Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/1891/07/07/music_log_5/</loc>
     
     <lastmod>2019-04-23T15:16:33.932Z</lastmod>
@@ -289,21 +296,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_4/</loc>
-    
-    <lastmod>2019-04-23T15:16:33.932Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/1891/07/07/music_log_2/</loc>
-    
-    <lastmod>2019-04-23T15:16:33.931Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_0/</loc>
     
     <lastmod>2019-04-23T15:16:33.931Z</lastmod>
     
@@ -324,6 +317,20 @@
   </url>
   
   <url>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_0/</loc>
+    
+    <lastmod>2019-04-23T15:16:33.931Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2019/01/27/id_generator/</loc>
+    
+    <lastmod>2019-04-23T15:16:33.930Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/2018/11/22/life-regrets/</loc>
     
     <lastmod>2019-04-23T15:16:33.930Z</lastmod>
@@ -332,13 +339,6 @@
   
   <url>
     <loc>http://amylewis.github.io/2017/08/08/labour/</loc>
-    
-    <lastmod>2019-04-23T15:16:33.930Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/2019/01/27/id_generator/</loc>
     
     <lastmod>2019-04-23T15:16:33.930Z</lastmod>
     
@@ -380,14 +380,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/16/compare-and-with-all/</loc>
+    <loc>http://amylewis.github.io/2017/05/29/deng/</loc>
     
     <lastmod>2019-04-23T15:16:33.929Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2017/05/29/deng/</loc>
+    <loc>http://amylewis.github.io/2018/07/16/compare-and-with-all/</loc>
     
     <lastmod>2019-04-23T15:16:33.929Z</lastmod>
     
@@ -401,14 +401,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/02/18/Run-sshd-in-Docker-container/</loc>
+    <loc>http://amylewis.github.io/2018/07/16/Python-SocketServer/</loc>
     
     <lastmod>2019-04-23T15:16:33.928Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/16/Python-SocketServer/</loc>
+    <loc>http://amylewis.github.io/2019/02/18/Run-sshd-in-Docker-container/</loc>
     
     <lastmod>2019-04-23T15:16:33.928Z</lastmod>
     
