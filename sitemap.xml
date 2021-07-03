@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://amylewis.github.io/2021/06/30/2021-05-06-digest/</loc>
+    
+    <lastmod>2021-07-03T17:02:07.763Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/about/index.html</loc>
     
     <lastmod>2021-05-06T04:14:39.468Z</lastmod>
@@ -135,13 +142,6 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/10/31/2019-October-digest/</loc>
-    
-    <lastmod>2020-01-30T16:30:45.211Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/2019/09/30/2019-September-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.211Z</lastmod>
@@ -156,14 +156,21 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/03/31/2019-March-digest/</loc>
+    <loc>http://amylewis.github.io/2019/10/31/2019-October-digest/</loc>
+    
+    <lastmod>2020-01-30T16:30:45.211Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2019/05/31/2019-May-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.210Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/05/31/2019-May-digest/</loc>
+    <loc>http://amylewis.github.io/2019/03/31/2019-March-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.210Z</lastmod>
     
@@ -184,13 +191,6 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/01/14/2019-Jan-digest/</loc>
-    
-    <lastmod>2020-01-30T16:30:45.208Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/2019/07/31/2019-July-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.208Z</lastmod>
@@ -198,9 +198,9 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/08/31/2019-August-digest/</loc>
+    <loc>http://amylewis.github.io/2019/01/14/2019-Jan-digest/</loc>
     
-    <lastmod>2020-01-30T16:30:45.207Z</lastmod>
+    <lastmod>2020-01-30T16:30:45.208Z</lastmod>
     
   </url>
   
@@ -212,7 +212,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/04/30/2019-April-digest/</loc>
+    <loc>http://amylewis.github.io/2019/08/31/2019-August-digest/</loc>
+    
+    <lastmod>2020-01-30T16:30:45.207Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2018/11/10/2018-Oct-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.206Z</lastmod>
     
@@ -226,7 +233,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/11/10/2018-Oct-digest/</loc>
+    <loc>http://amylewis.github.io/2019/04/30/2019-April-digest/</loc>
     
     <lastmod>2020-01-30T16:30:45.206Z</lastmod>
     
@@ -261,14 +268,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/12/what-is-the-preferred-syntax-for-initializing-a-dictionary/</loc>
+    <loc>http://amylewis.github.io/2014/10/08/sailing/</loc>
     
     <lastmod>2019-04-23T15:16:33.933Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2014/10/08/sailing/</loc>
+    <loc>http://amylewis.github.io/2018/07/12/what-is-the-preferred-syntax-for-initializing-a-dictionary/</loc>
     
     <lastmod>2019-04-23T15:16:33.933Z</lastmod>
     
@@ -296,7 +303,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_4/</loc>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_6/</loc>
     
     <lastmod>2019-04-23T15:16:33.932Z</lastmod>
     
@@ -317,9 +324,23 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_6/</loc>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_4/</loc>
     
     <lastmod>2019-04-23T15:16:33.932Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_1/</loc>
+    
+    <lastmod>2019-04-23T15:16:33.931Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_2/</loc>
+    
+    <lastmod>2019-04-23T15:16:33.931Z</lastmod>
     
   </url>
   
@@ -338,21 +359,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_2/</loc>
-    
-    <lastmod>2019-04-23T15:16:33.931Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_1/</loc>
-    
-    <lastmod>2019-04-23T15:16:33.931Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/2018/07/08/fang-si-qi/</loc>
+    <loc>http://amylewis.github.io/2018/07/08/freedom-for-the-thoughts-that-we-hate/</loc>
     
     <lastmod>2019-04-23T15:16:33.930Z</lastmod>
     
@@ -366,14 +373,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/08/fulei/</loc>
+    <loc>http://amylewis.github.io/2018/11/22/life-regrets/</loc>
     
     <lastmod>2019-04-23T15:16:33.930Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/08/freedom-for-the-thoughts-that-we-hate/</loc>
+    <loc>http://amylewis.github.io/2018/07/08/fulei/</loc>
     
     <lastmod>2019-04-23T15:16:33.930Z</lastmod>
     
@@ -394,7 +401,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/11/22/life-regrets/</loc>
+    <loc>http://amylewis.github.io/2018/07/08/fang-si-qi/</loc>
     
     <lastmod>2019-04-23T15:16:33.930Z</lastmod>
     
@@ -408,14 +415,14 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2017/05/29/deng/</loc>
+    <loc>http://amylewis.github.io/2018/07/16/compare-and-with-all/</loc>
     
     <lastmod>2019-04-23T15:16:33.929Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/16/compare-and-with-all/</loc>
+    <loc>http://amylewis.github.io/2017/05/29/deng/</loc>
     
     <lastmod>2019-04-23T15:16:33.929Z</lastmod>
     
