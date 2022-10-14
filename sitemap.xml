@@ -56,6 +56,15 @@
   </url>
   
   <url>
+    <loc>http://amylewis.github.io/2014/10/08/sailing/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/2018/11/24/twelve-factor-app/</loc>
     
     <lastmod>2022-06-27</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>http://amylewis.github.io/2018/07/23/urlparse-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/2014/10/08/sailing/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -110,25 +110,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/11/22/life-regrets/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_0/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_1/</loc>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_2/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -146,25 +128,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_2/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/1891/07/07/music_log_4/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/2018/07/08/python-package/</loc>
+    <loc>http://amylewis.github.io/2018/11/22/life-regrets/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -191,7 +155,34 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/19/eafp/</loc>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_1/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_0/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/1891/07/07/music_log_4/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2018/07/08/python-package/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -209,15 +200,6 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/08/fang-si-qi/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/2017/05/29/deng/</loc>
     
     <lastmod>2022-06-27</lastmod>
@@ -227,7 +209,16 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2018/07/08/fulei/</loc>
+    <loc>http://amylewis.github.io/2018/07/19/eafp/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2018/07/08/fang-si-qi/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -237,6 +228,15 @@
   
   <url>
     <loc>http://amylewis.github.io/2018/07/08/freedom-for-the-thoughts-that-we-hate/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/2018/07/08/fulei/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -290,6 +290,15 @@
   </url>
   
   <url>
+    <loc>http://amylewis.github.io/2018/08/16/beanstalk-%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/2017/07/09/brief-history-of-humankind/</loc>
     
     <lastmod>2022-06-27</lastmod>
@@ -300,15 +309,6 @@
   
   <url>
     <loc>http://amylewis.github.io/2018/12/18/celery-cookbook/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/2018/08/16/beanstalk-%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -380,15 +380,6 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2021/02/28/2021-Feb-digest/</loc>
-    
-    <lastmod>2022-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://amylewis.github.io/2021/01/31/2021-Jan-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
@@ -398,7 +389,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2020/07/31/2020-July-digest/</loc>
+    <loc>http://amylewis.github.io/2021/02/28/2021-Feb-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -416,7 +407,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2020/05/31/2020-May-digest/</loc>
+    <loc>http://amylewis.github.io/2020/03/31/2020-March-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -425,7 +416,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2021/06/30/2021-05-06-digest/</loc>
+    <loc>http://amylewis.github.io/2020/07/31/2020-July-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -443,6 +434,15 @@
   </url>
   
   <url>
+    <loc>http://amylewis.github.io/2020/05/31/2020-May-digest/</loc>
+    
+    <lastmod>2022-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/2021/10/31/2021-10-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
@@ -452,7 +452,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2020/03/31/2020-March-digest/</loc>
+    <loc>http://amylewis.github.io/2021/06/30/2021-05-06-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/11/30/2019-November-digest/</loc>
+    <loc>http://amylewis.github.io/2019/05/31/2019-May-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/05/31/2019-May-digest/</loc>
+    <loc>http://amylewis.github.io/2019/11/30/2019-November-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -614,7 +614,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/02/28/2019-Feb-digest/</loc>
+    <loc>http://amylewis.github.io/2019/12/31/2019-December-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -623,7 +623,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/2019/12/31/2019-December-digest/</loc>
+    <loc>http://amylewis.github.io/2019/02/28/2019-Feb-digest/</loc>
     
     <lastmod>2022-06-27</lastmod>
     
@@ -668,6 +668,27 @@
 
   
   <url>
+    <loc>http://amylewis.github.io/tags/life/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/tags/digest/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://amylewis.github.io/tags/reading/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/tags/tech/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -682,21 +703,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/tags/algorithm/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/tags/reading/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/tags/life/</loc>
+    <loc>http://amylewis.github.io/tags/code-reading/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -710,14 +717,7 @@
   </url>
   
   <url>
-    <loc>http://amylewis.github.io/tags/code-reading/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/tags/digest/</loc>
+    <loc>http://amylewis.github.io/tags/algorithm/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -733,6 +733,13 @@
 
   
   <url>
+    <loc>http://amylewis.github.io/categories/life/</loc>
+    <lastmod>2022-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://amylewis.github.io/categories/tech/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -741,13 +748,6 @@
   
   <url>
     <loc>http://amylewis.github.io/categories/reading/</loc>
-    <lastmod>2022-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://amylewis.github.io/categories/life/</loc>
     <lastmod>2022-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
